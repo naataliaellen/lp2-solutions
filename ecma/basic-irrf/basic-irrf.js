@@ -1,4 +1,4 @@
-var salario = prompt("Insira seu salario: ");
+var salario = 3500;
 var taxafinal;
 if (salario <= 1903.98) {
   var taxafinal = 0;
